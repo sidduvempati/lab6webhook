@@ -27,3 +27,5 @@ pipeline {
                 sh "docker push sudhvempati/mytriotaskflaskapp:latest"
             }           
         }
+    }
+}
